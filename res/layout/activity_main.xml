@@ -37,16 +37,6 @@
         android:layout_alignParentRight="true"
         android:layout_marginRight="16dp"
         android:text="Read SDCard" />
-    
-    <EditText
-      android:id="@+id/edittext"
-      android:layout_width="fill_parent"
-      android:layout_height="wrap_content"
-      android:layout_alignLeft="@+id/button"
-      android:layout_below="@+id/textView1"
-      android:layout_marginTop="61dp"
-      android:ems="10"
-      android:text="" android:inputType="text" />
 
     <EditText
         android:id="@+id/editText1"
