@@ -26,6 +26,17 @@ public class MainActivity extends Activity {
 		}
     	 
      });
-    
+  
+     Button b2=(Button)findViewById(R.id.button2);
+     b2.setOnClickListener(new View.OnClickListener(){
+
+		@Override
+		public void onClick(View arg0) {
+			// TODO Auto-generated method stub
+			
+		}
+    	 
+     });
     }
+  
 }
